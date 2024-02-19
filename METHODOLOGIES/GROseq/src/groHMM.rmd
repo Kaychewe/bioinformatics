@@ -349,6 +349,10 @@ plotMetaGene(mg=ev0m, MIN=MIN, MAX=MAX)
 plotMetaGene(mg=kom, MIN=MIN, MAX=MAX)
 ```
 
-
-
+# Further modifications 
+1. explore q-value computations, most differentially expressed genes 
+2. log2FC vs log10FC of GROseq data 
+3. hyperparamter tuning to minimize sum of squares error
+4. Final report part-1 (transcript Identification)
+3. Pol ii pausing index (PART 2 OF SCRIPT )
 
